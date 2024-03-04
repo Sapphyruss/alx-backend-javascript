@@ -1,0 +1,25 @@
+{
+  "name": "alx-backend-javascript",
+  "version": "1.0.0",
+  "description": "first task spec",
+  "main": "0-constants.js",
+  "dependencies": {
+    "babel-install": "^2.1.0",
+    "jest": "^29.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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%E2%80%A8@github.com/Sapphyruss/alx-backend-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sapphyruss/alx-backend-javascript/issues"
+  },
+  "homepage": "https://github.com/Sapphyruss/alx-backend-javascript#readme"
+}
